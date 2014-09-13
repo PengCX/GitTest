@@ -1,5 +1,6 @@
 rebase test
 user1/getopt
 fix bug 3.0 user2
-fix bug3.0 ueser1
+fix bug3.0 ueser
 modify1
+modify2
